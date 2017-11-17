@@ -1,0 +1,24 @@
+			body {
+				background-color: #087F8C;
+			}
+			p {
+				color: #251F47;
+				padding: 100px;
+			}
+				a {
+					color: red;
+					text-decoration: none;
+				}
+				a:hover {
+					color: green;
+				}
+			h1 {
+				padding-left: 500px;
+				padding-top: 100px;
+				font-family: 'Reenie Beanie', cursive;
+			}
+			ul {
+				padding-top: 300px;
+				padding-left: 500px;
+
+			}
