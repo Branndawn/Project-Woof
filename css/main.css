@@ -3,22 +3,49 @@
 			}
 			p {
 				color: #251F47;
-				padding: 100px;
+				padding: 300px;
 			}
 				a {
-					color: red;
+					color: darkblue;
 					text-decoration: none;
 				}
 				a:hover {
-					color: green;
+					color: darkgreen;
 				}
 			h1 {
 				padding-left: 500px;
 				padding-top: 100px;
 				font-family: 'Reenie Beanie', cursive;
+				margin: 40px;
 			}
 			ul {
-				padding-top: 300px;
+				padding-top: 20px;
+				padding-left: 200px;
+				padding-right: 200px;
+			}
+			div.Top {
 				padding-left: 500px;
-
+				position: absolute;
+				top: 250px;
+				margin: 20px;
+			}
+			div.Bottom {
+				padding-left: 550px;
+				position: absolute;
+				top: 700px;
+				margin: 20px;
+			}
+			div.Left {
+				float: left;
+				position: absolute;
+				left: 250px;
+				top: 750px;
+				margin: 20px;
+			}
+			div.Right {
+				float: right;
+				position: absolute;
+				right: 200px;
+				top: 750px;
+				margin: 20px;
 			}
